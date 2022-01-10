@@ -1,0 +1,4 @@
+Bundle-Name: dynamic-include-pre
+Bundle-SymbolicName: com.liferay.tasks.dynamic.pre
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.tasks.dynamic.pre.constants

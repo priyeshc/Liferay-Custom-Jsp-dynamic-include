@@ -1,0 +1,4 @@
+Bundle-Name: dynamic-include
+Bundle-SymbolicName: com.liferay.tasks.dynamic.include
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.tasks.dynamic.include.constants
